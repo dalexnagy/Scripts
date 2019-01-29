@@ -1,4 +1,7 @@
 #!/bin/bash
+# Script to process files from the ApeMan Wildlife Camera
+# Steps:
+# See text in 'echo' commands for what each step does 
 # 2018-07-12: Use file create date in rename step
 #DATE=`date +%Y%m%d`
 #
